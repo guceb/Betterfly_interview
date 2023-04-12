@@ -1,0 +1,20 @@
+Variable,Description
+DeathRate,"Variable of Interest. Average cancer mortality per capita (100,000)."
+Perc_OnlyPrivate,Percentage of residents of the commune with only private health coverage (no public health).
+Perc_Private,Percentage of residents of the commune with private health coverage.
+Perc_Poverty,Percentage of population below poverty levels.
+Perc_MarriedHouse,Percentage of households in the commune in which married persons reside.
+Avg_Cases,Average number of cases of cancer diagnosed annually.
+Mean_Male,Average age of male residents of the commune.
+Mean_Female,Average age of female residents of the commune.
+BirthRate,Number of live births in relation to the number of women in the commune.
+Perc_Married,Percentage of residents of the commune who are married.
+Perc_Unemployed16,Percentage of residents of the municipality aged 16 years or older currently unemployed.
+Perc_HighSchool25,Percentage of commune residents 25 years of age and older who obtained a high school diploma.
+Perc_HighSchool18_24,Percentage of commune residents between 18 and 24 years of age who obtained a high school diploma.
+Perc_Col18_24,Percentage of residents of the commune between 18 and 24 years old who obtained a university education.
+Perc_Bach25,Percentage of residents of the commune 25 years of age or older who have obtained a bachelor's degree.
+Perc_Emp16,Percentage of residents of the municipality aged 16 years or older currently employed.
+Avg_DeathPerYear,Average number of reported cancer deaths per year.
+Mean_Income,Average income by commune.
+IncidenceRate,Average cancer diagnoses per capita (100.000).
